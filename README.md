@@ -1,10 +1,10 @@
-# Intro-to-Java-Programming
+# Introduction-to-Java-Programming 10th edition.
+## Y. Daniel Liang (Author)
 My Solutions to the Programming Exercises in 
 Introduction to Java Programming, 
-Comprehensive Version (10th Edition) by Y. Daniel Liang (Author)
 
 ------------------------------------------------------------------------
 ## License & copyright
-© Jabari H James
+© Diego Maquill
 
-Licensed under the [MIT License](LICENSE.txt).
+Licensed under the [RevereIT](LICENSE.txt).
